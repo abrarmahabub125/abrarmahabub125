@@ -16,33 +16,6 @@
 
 <br>
 
-### 🔥 My Favorite Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,supabase" alt="Favorite Stack" />
-</p>
-
-<br>
-
-### 📚 Check Out My [Course / Tutorial / Project]!
-
-Learn **[React / Next.js / Fullstack / etc.]** from zero to hero in my full video course / series, packed with hands-on projects and modern best practices.
-
-➡️ **[Click here to access the course / playlist]**  
-*(replace with your actual link)*
-
-<br>
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117&title_color=00FFAA&icon_color=00FFAA&text_color=ffffff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117&title_color=00FFAA&text_color=ffffff)
-
-</div>
-
 <br>
 
 ### ❤️ Connect with Me
