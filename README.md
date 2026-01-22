@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/your-username">
-    <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=600&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=Fullstack+Dev;React+Enthusiast;UI/UX+Designer;Problem+Solver" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Fullstack+Dev+|+React+Enthusiast;UI/UX+Designer;Problem+Solver" alt="Typing SVG" />
   </a>
 </p>
 
