@@ -1,10 +1,4 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FFAA&center=true&vCenter=true&width=435&lines=Hey!+I'm+[Your+Name];Fullstack+Developer" alt="Typing SVG" />
-</div>
-
-<br>
-
-<h1 align="center">👋 Hey, I'm [Your Name / Alias] – aka [Your Cool Nickname] 🚀</h1>
+<h1 align="left">👋 Hey, I'm Abrar Mahabub 🧑‍💻</h1>
 
 <p align="center">
   <strong>Fullstack Dev | React Enthusiast | Building cool stuff for the web</strong>
