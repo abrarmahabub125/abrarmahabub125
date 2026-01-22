@@ -11,12 +11,15 @@
 ### 🚀 About Me
 
 <div align="left">
-  <img align="right" width="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndnZueXpueGZ6NXN6NXN6NXN6NXN6NXN6NXN6NXN6NXN6NXN6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" />
+  <img align="right" width="220" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndnZueXpueGZ6NXN6NXN6NXN6NXN6NXN6NXN6NXN6NXN6NXN6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-🎨 Frontend Web Developer crafting pixel-perfect, high-performance user interfaces
-💻 Core stack: React • Next.js • TypeScript • Tailwind CSS • Supabase
-🔥 Focused on: blazing-fast performance • exceptional DX • accessible & modern UI/UX
-🧠 Self-taught with a growth mindset — constantly experimenting with the latest tools
+- Self-taught frontend engineer with a **growth mindset**  
+- Constantly experimenting with the latest tools & patterns  
+- Passionate about sharing knowledge (check my YouTube channel 🎥)  
+- From Bangladesh 🇧🇩 — building for the web, one component at a time  
+- Open-source enthusiast | Always contributing, learning from the community, and giving back  
+- Currently diving deep into React Server Components, AI-powered UIs, and next-gen performance tricks  
+- Believer in "build first, learn as you go" — because real growth happens in the struggle & iteration
 </div>
 
 ---
