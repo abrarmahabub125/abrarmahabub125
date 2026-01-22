@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Pedro – aka PedroTech 👨‍💻
+# 👋 Hey, I'm Abrar Mahabub 👨‍💻
 
 <p align="center">
   <a href="https://github.com/your-username">
