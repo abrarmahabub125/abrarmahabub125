@@ -11,7 +11,7 @@
 ### 🚀 About Me
 
 <div align="left">
-  <img align="right" width="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndnZueXpueGZ6NXN6NXN6NXN6NXN6NXN6NXN6NXN6NXN6NXN6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" />
+  <img align="right" width="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndnZueXpueGZ6NXN6NXN6NXN6NXN6NXN6NXN6NXN6NXN6NXN6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" />
 
   - 🎥 **YouTube Educator**: I teach web dev to millions on my [YouTube Channel](https://youtube.com/)
   - 💻 **Tech Stack**: Passionate about building fullstack apps with **React, Next.js, TypeScript, & Supabase**
