@@ -10,10 +10,14 @@
 
 ### 🚀 About Me
 
-- 🎥 I teach web dev to millions on [YouTube](https://youtube.com/)
-- 💻 Passionate about building fullstack apps with React, Next.js, TypeScript, and Supabase
-- 🧠 Constantly learning & sharing what I learn
-- 🛠 Focused on performance, developer experience, and clean UI
+<div align="left">
+  <img align="right" width="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndnZueXpueGZ6NXN6NXN6NXN6NXN6NXN6NXN6NXN6NXN6NXN6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+  - 🎥 **YouTube Educator**: I teach web dev to millions on my [YouTube Channel](https://youtube.com/)
+  - 💻 **Tech Stack**: Passionate about building fullstack apps with **React, Next.js, TypeScript, & Supabase**
+  - 🧠 **Growth Mindset**: Constantly learning & sharing what I learn with the community
+  - 🛠 **Focus**: Specialized in **performance, developer experience, and clean UI**
+</div>
 
 ---
 
