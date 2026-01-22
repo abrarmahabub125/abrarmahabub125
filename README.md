@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/your-username">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Fullstack+Dev+|+React+Enthusiast;UI/UX+Designer;Problem+Solver" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Frontend+Dev+|+React+Enthusiast;UI/UX+Designer;Problem+Solver" alt="Typing SVG" />
   </a>
 </p>
 
@@ -13,10 +13,10 @@
 <div align="left">
   <img align="right" width="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndnZueXpueGZ6NXN6NXN6NXN6NXN6NXN6NXN6NXN6NXN6NXN6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-  - 🎥 **YouTube Educator**: I teach web dev to millions on my [YouTube Channel](https://youtube.com/)
-  - 💻 **Tech Stack**: Passionate about building fullstack apps with **React, Next.js, TypeScript, & Supabase**
-  - 🧠 **Growth Mindset**: Constantly learning & sharing what I learn with the community
-  - 🛠 **Focus**: Specialized in **performance, developer experience, and clean UI**
+🎨 Frontend Web Developer crafting pixel-perfect, high-performance user interfaces
+💻 Core stack: React • Next.js • TypeScript • Tailwind CSS • Supabase
+🔥 Focused on: blazing-fast performance • exceptional DX • accessible & modern UI/UX
+🧠 Self-taught with a growth mindset — constantly experimenting with the latest tools
 </div>
 
 ---
@@ -46,7 +46,7 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=machadop1407&show_icons=true&theme=radical" alt="Pedro's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abrarmahabub125&show_icons=true&theme=radical" alt="Abrar's GitHub Stats" />
 </p>
 
 
