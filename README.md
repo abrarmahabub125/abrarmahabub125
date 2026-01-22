@@ -1,7 +1,9 @@
 # 👋 Hey, I'm Pedro – aka PedroTech 👨‍💻
 
 <p align="center">
-  <samp>Fullstack Dev | React Enth</samp>
+  <a href="https://github.com/your-username">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Fullstack+Dev;React+Enthusiast;UI/UX+Designer;Problem+Solver" alt="Typing SVG" />
+  </a>
 </p>
 
 ---
