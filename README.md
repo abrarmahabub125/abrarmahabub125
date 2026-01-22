@@ -4,14 +4,6 @@
   <strong>Fullstack Dev | React Enthusiast | Building cool stuff for the web</strong>
 </p>
 
-<br>
-
-<div align="center">
-
-![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=00FFAA)
-![Profile views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=00FFAA)
-
-</div>
 
 ---
 
