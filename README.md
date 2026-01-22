@@ -1,51 +1,57 @@
-<h1 align="left">👋 Hey, I'm Abrar Mahabub 🧑‍💻</h1>
+# 👋 Hey, I'm Pedro – aka PedroTech 👨‍💻
 
 <p align="center">
-  <strong>Fullstack Dev | React Enthusiast | Building cool stuff for the web</strong>
+  <samp>Fullstack Dev | React Enth</samp>
 </p>
-
 
 ---
 
 ### 🚀 About Me
 
-- 🎥 I [teach / create content / build projects] on [YouTube / TikTok / Blog / etc.]
-- 💻 Passionate about building **fullstack** apps with **React**, **Next.js**, **TypeScript**, and **[your backend e.g. Supabase / Node / Firebase]**
-- 🌱 Constantly learning & sharing what I learn
-- 🎯 Focused on **performance**, **developer experience**, and **clean UI/UX**
+- 🎥 I teach web dev to millions on [YouTube](https://youtube.com/)
+- 💻 Passionate about building fullstack apps with React, Next.js, TypeScript, and Supabase
+- 🧠 Constantly learning & sharing what I learn
+- 🛠 Focused on performance, developer experience, and clean UI
 
-<br>
+---
 
-<br>
-
-### ❤️ Connect with Me
+### 🧠 My Favorite Stack
 
 <p align="left">
-  <a href="https://facebook.com/YOUR_FACEBOOK_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" 
-         style="padding:10px 15px; box-shadow: 0 0 12px #1877F2aa; margin: 0 30px;"/>
-  </a>
-  
-  <a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" 
-         style="border-radius:10px; padding:8px; box-shadow: 0 0 12px #1877F2aa; margin: 0 20px;"/>
-  </a>
-  
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" 
-         style="border-radius:10px; padding:8px; box-shadow: 0 0 12px #1877F2aa; margin: 0 20px;"/>
-  </a>
-  
-  <a href="https://twitter.com/YOUR_TWITTER_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" 
-         style="border-radius:10px; padding:8px; box-shadow: 0 0 12px #1877F2aa; margin: 0 20px;"/>
-  </a>
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
 </p>
 
-<br>
+---
 
-<div align="center">
-  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/main/assets/wave.gif?raw=true" width="50" alt="Wave" />
-  <br><br>
-  <strong>Thanks for stopping by! Let's build something awesome together ✨</strong>
-</div>
+### 📗 Check Out My React Course!
+
+> Learn React.js from zero to hero in my full video course, packed with hands-on projects and modern practices.
+
+🎉 👉 [Click here to access the course](YOUR_COURSE_LINK_HERE)
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=machadop1407&show_icons=true&theme=radical" alt="Pedro's GitHub Stats" />
+</p>
+
+---
+
+### 🤝 Connect with Me
+
+<p align="left">
+  <a href="https://twitter.com/YOUR_HANDLE">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://instagram.com/YOUR_HANDLE">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://linkedin.com/in/YOUR_HANDLE">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
