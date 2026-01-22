@@ -23,7 +23,7 @@
 <p align="left">
   <a href="https://facebook.com/YOUR_FACEBOOK_USERNAME" target="_blank">
     <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" 
-         style="border-radius:10px; padding:8px; box-shadow: 0 0 12px #1877F2aa; margin: 0 20px;"/>
+         style="padding:10px 15px; box-shadow: 0 0 12px #1877F2aa; margin: 0 30px;"/>
   </a>
   
   <a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME" target="_blank">
