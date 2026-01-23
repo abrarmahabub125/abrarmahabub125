@@ -41,8 +41,10 @@
 
 | Project Name | Tech Stack | Demo/Link |
 | :--- | :--- | :--- |
-| **Project One** | React, TypeScript, Tailwind | [🔗 Live Demo](YOUR_LINK_HERE) |
-| **Project Two** | Next.js, Supabase, Tailwind | [🔗 GitHub Repo](YOUR_LINK_HERE) |
+| **Estatein website** | React, Tailwind | [🔗 Live Demo](https://estatein-website-lyart.vercel.app/) |
+| **Motion Pixel** | React, Tailwind | [🔗 Live Demo](https://motion-pixel.vercel.app/) |
+| **App Verse** | React, Tailwind | [🔗 Live Demo](https://app-verse.vercel.app/) |
+| **Task manager** | React, Tailwind | [🔗 Live Demo](https://todo-task-manager-application-using.vercel.app/) |
 
 ---
 
