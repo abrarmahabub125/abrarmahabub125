@@ -42,8 +42,8 @@
 | Project Name | Tech Stack | Demo/Link |
 | :--- | :--- | :--- |
 | **Estatein website** | React, Tailwind | [🔗 Live Demo](https://estatein-website-lyart.vercel.app/) |
+| **Book Library** | React, Tailwind | [🔗 Live Demo](https://book-library-frontend-gilt.vercel.app/) |
 | **Motion Pixel** | React, Tailwind | [🔗 Live Demo](https://motion-pixel.vercel.app/) |
-| **App Verse** | React, Tailwind | [🔗 Live Demo](https://app-verse.vercel.app/) |
 | **Task manager** | React, Tailwind | [🔗 Live Demo](https://todo-task-manager-application-using.vercel.app/) |
 
 ---
