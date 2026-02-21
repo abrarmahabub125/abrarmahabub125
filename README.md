@@ -48,14 +48,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abrarmahabub125&show_icons=true&theme=radical" alt="Abrar's GitHub Stats" />
-</p>
-
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=abrarmahabub125&show_icons=true&theme=radical)
----
 
 ### 🤝 Connect with Me
 
