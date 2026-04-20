@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Abrar Mahabub 👨‍💻
+# 👋 Hey, I'm Mahabub Alam 👨‍💻
 
 <p align="center">
   <a href="https://github.com/your-username">
@@ -30,7 +30,8 @@
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
 </p>
 
 ---
@@ -41,10 +42,10 @@
 
 | Project Name | Tech Stack | Demo/Link |
 | :--- | :--- | :--- |
+| **X.com clone** | React, Tailwind | [🔗 Live Demo](https://xcomclone-five.vercel.app/) |
 | **Estatein website** | React, Tailwind | [🔗 Live Demo](https://estatein-website-lyart.vercel.app/) |
 | **Book Library** | React, Tailwind | [🔗 Live Demo](https://book-library-frontend-gilt.vercel.app/) |
 | **Motion Pixel** | React, Tailwind | [🔗 Live Demo](https://motion-pixel.vercel.app/) |
-| **Task manager** | React, Tailwind | [🔗 Live Demo](https://todo-task-manager-application-using.vercel.app/) |
 
 ---
 
@@ -53,13 +54,13 @@
 
 <p align="left">
   <a href="https://x.com/abrar_mahabub" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
   </a>
   <a href="https://www.facebook.com/mr.abrar.mahabub" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
-</a>
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
   <a href="https://www.instagram.com/mr.abrar_mahabub/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://www.linkedin.com/in/abrar-mahabub-721ba939b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
