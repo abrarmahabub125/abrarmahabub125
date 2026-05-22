@@ -34,7 +34,6 @@
   <img src="https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
   <img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
 </p>
 
@@ -46,10 +45,10 @@
 
 | Project Name | Tech Stack | Demo/Link |
 | :--- | :--- | :--- |
-| **X.com clone** | React, Tailwind | [🔗 Live Demo](https://x-social-clone.vercel.app/) |
-| **Estatein website** | React, Tailwind | [🔗 Live Demo](https://estatein-website-lyart.vercel.app/) |
+| **X.com clone** | React.js, Express.js, MongoDB | [🔗 Live Demo](https://x-social-clone.vercel.app/) |
+| **Estatein website** | React.js, TailwindCSS | [🔗 Live Demo](https://estatein-website-lyart.vercel.app/) |
 | **Book Library** | React, Tailwind | [🔗 Live Demo](https://book-library-frontend-gilt.vercel.app/) |
-| **Motion Pixel** | React, Tailwind | [🔗 Live Demo](https://motion-pixel.vercel.app/) |
+| **Motion Pixel** | React, Tailwind, API intrigation | [🔗 Live Demo](https://motion-pixel.vercel.app/) |
 
 ---
 
