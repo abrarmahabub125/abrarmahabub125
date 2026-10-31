@@ -183,15 +183,15 @@
 </h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/abu-saleh1/" target="_blank">
+  <a href="https://www.linkedin.com/in/mahabub-alam125/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.facebook.com/itz.akio.98/" target="_blank">
+  <a href="https://www.facebook.com/mr.abrar.mahabub" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="35" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:abusaleh2612@gmail.com">
+  <a href="mailto:abrarmahabub125@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
   </a>
 </p>
